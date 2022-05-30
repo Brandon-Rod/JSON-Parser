@@ -14,3 +14,4 @@
 
 ## Technologies Used
 - UITableView
+- Codable
