@@ -1,0 +1,43 @@
+{
+    
+    "missions": [
+        {
+            "name": "Mission 1",
+            "subtitle": "TakeOff!",
+            "detail": "The group has been sent to the moon. The estimated arrival is 6 days. Once they land, thy will set up base and start to look for useful resources.",
+            "year": 2000
+        },
+        {
+            "name": "Mission 2",
+            "subtitle": "Insufficient Resources",
+            "detail": "The group's resources are starting to run out, and the crops are taking longer to harvest this year than the previous years. The cargo ship on Earth is currently being packed with resources and is expected to takeoff in a couple of days.",
+            "year": 2005
+        },
+        {
+            "name": "Mission 3",
+            "subtitle": "Glowing Stone",
+            "detail": "While mining on the moon, the group found a mysterious glowing rock that pulsates as if it were a heart. The group decided to bring it to base for further investigation.",
+            "year": 2010
+        },
+        {
+            "name": "Mission 4",
+            "subtitle": "New Information On Glowing Rock",
+            "detail": "After 5 years of experimenting on the Glowing Rock, the group has found that the Glowing Rock can be used to create oxygen, like plants on Earth. The group plans to place it in the center of base so that oxygen can be distributed all through the base.",
+            "year": 2015
+        },
+        {
+            "name": "Mission 5",
+            "subtitle": "Oxygen",
+            "detail": "Oxygen now flows freely through the base and the group doesn't need to wear suits in base. Crops have also started to harvest quicker, and new plant life been born. We plan to bring 100 more people by 2020.",
+            "year": 2018
+        },
+        {
+            "name": "Mission 6",
+            "subtitle": "Mission Complete",
+            "detail": "Over 500 people now live comfortably in the base camp of the moon thanks to the mysterious properties of the Glowing Rock. Our plan is to look for more Glowing Rock's in order to expand our base.",
+            "year": 2022
+        }
+        
+    ]
+    
+}
